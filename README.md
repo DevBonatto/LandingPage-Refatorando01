@@ -26,4 +26,4 @@ Projeto:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/npmHouatKvxuQVAd8LTHNU/Explorer-Projeto-01-Copy?fuid=1256335722836990720).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Vg3ISQxLN0jEOW3ud4tsSY/Explorer-Projeto-02-Copy?fuid=1256335722836990720).

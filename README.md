@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Figma
 
+
 ## 💻 Projeto
 
 O intuito desse código foi a refatoração de um código proposto pela RocketSeat. Nesse projeto estão as pastas do código com a semântica errada e com a refatoração.

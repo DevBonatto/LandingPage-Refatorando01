@@ -1,4 +1,4 @@
-<h1 align="center"> Refatorando 01 </h1>
+<h1 align="center"> Landing Page - Refatorando 01 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
